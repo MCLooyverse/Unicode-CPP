@@ -81,13 +81,13 @@ namespace mcl::utf8 {
 			return parseSeq(p, e).point();
 		}
 
-		bounded_iterator& operator++()
+		bounded_const_iterator& operator++()
 		{
 			p += parseSeq(p, e).len;
 			return *this;
 		}
 
-		bounded_iterator operator++(int)
+		bounded_const_iterator operator++(int)
 		{
 			auto op = p;
 			++*this;
