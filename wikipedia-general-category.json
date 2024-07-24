@@ -1,0 +1,242 @@
+[
+  {
+    "code": "Lu",
+    "cat": "Letter, uppercase",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "1,831",
+    "comment": ""
+  },
+  {
+    "code": "Ll",
+    "cat": "Letter, lowercase",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "2,233",
+    "comment": ""
+  },
+  {
+    "code": "Lt",
+    "cat": "Letter, titlecase",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "31",
+    "comment": "containing uppercase followed by lowercase letters (e.g., , , , and )Ligaturesǅǈǋǲ"
+  },
+  {
+    "code": "Lm",
+    "cat": "Letter, modifier",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "397",
+    "comment": "Amodifier letter"
+  },
+  {
+    "code": "Lo",
+    "cat": "Letter, other",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "131,612",
+    "comment": "An or a letter in aideographunicase alphabet"
+  },
+  {
+    "code": "Mn",
+    "cat": "Mark, nonspacing",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "1,985",
+    "comment": ""
+  },
+  {
+    "code": "Mc",
+    "cat": "Mark, spacing combining",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "452",
+    "comment": ""
+  },
+  {
+    "code": "Me",
+    "cat": "Mark, enclosing",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "13",
+    "comment": ""
+  },
+  {
+    "code": "Nd",
+    "cat": "Number, decimal digit",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "680",
+    "comment": "All these, and only these, have = DeNumeric Type[e]"
+  },
+  {
+    "code": "Nl",
+    "cat": "Number, letter",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "236",
+    "comment": "Numerals composed of letters or letterlike symbols (e.g., )Roman numerals"
+  },
+  {
+    "code": "No",
+    "cat": "Number, other",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "915",
+    "comment": "E.g., , and digitsvulgar fractionssuperscriptsubscript"
+  },
+  {
+    "code": "Pc",
+    "cat": "Punctuation, connector",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "10",
+    "comment": "Includes spacing characters such as \"_\", and other spacing . Unlike other punctuation characters, these may be classified as \"word\" characters by libraries.underscoretie charactersregular expression[f]"
+  },
+  {
+    "code": "Pd",
+    "cat": "Punctuation, dash",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "26",
+    "comment": "Includes several charactershyphen"
+  },
+  {
+    "code": "Ps",
+    "cat": "Punctuation, open",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "79",
+    "comment": "Opening charactersbracket"
+  },
+  {
+    "code": "Pe",
+    "cat": "Punctuation, close",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "77",
+    "comment": "Closing bracket characters"
+  },
+  {
+    "code": "Pi",
+    "cat": "Punctuation, initial quote",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "12",
+    "comment": "Opening . Does not include the ASCII \"neutral\" quotation mark. May behave like Ps or Pe depending on usagequotation mark"
+  },
+  {
+    "code": "Pf",
+    "cat": "Punctuation, final quote",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "10",
+    "comment": "Closing quotation mark. May behave like Ps or Pe depending on usage"
+  },
+  {
+    "code": "Po",
+    "cat": "Punctuation, other",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "628",
+    "comment": ""
+  },
+  {
+    "code": "Sm",
+    "cat": "Symbol, math",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "948",
+    "comment": "(e.g., , , , , , , , ).  Does not include parentheses and brackets, which are in categories Ps and Pe.  Also does not include , , , or , which despite frequent use as mathematical operators, are primarily considered to be \"punctuation\".Mathematical symbols+−=×÷√∊≠!*-/"
+  },
+  {
+    "code": "Sc",
+    "cat": "Symbol, currency",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "63",
+    "comment": "Currency symbols"
+  },
+  {
+    "code": "Sk",
+    "cat": "Symbol, modifier",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "125",
+    "comment": ""
+  },
+  {
+    "code": "So",
+    "cat": "Symbol, other",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "6,634",
+    "comment": ""
+  },
+  {
+    "code": "Zs",
+    "cat": "Separator, space",
+    "type": "Graphic",
+    "char": "Character",
+    "count": "17",
+    "comment": "Includes the space, but not , , or , which are CcTABCRLF"
+  },
+  {
+    "code": "Zl",
+    "cat": "Separator, line",
+    "type": "Format",
+    "char": "Character",
+    "count": "1",
+    "comment": "Only (LSEP)U+2028LINE SEPARATOR"
+  },
+  {
+    "code": "Zp",
+    "cat": "Separator, paragraph",
+    "type": "Format",
+    "char": "Character",
+    "count": "1",
+    "comment": "Only (PSEP)U+2029PARAGRAPH SEPARATOR"
+  },
+  {
+    "code": "Cc",
+    "cat": "Other, control",
+    "type": "Control",
+    "char": "Character",
+    "count": "65 (will never change)[e]",
+    "comment": "No name, <control>[g]"
+  },
+  {
+    "code": "Cf",
+    "cat": "Other, format",
+    "type": "Format",
+    "char": "Character",
+    "count": "170",
+    "comment": "Includes the , joining control characters ( and ), control characters to support , and characterssoft hyphenZWNJZWJbidirectional textlanguage tag"
+  },
+  {
+    "code": "Cs",
+    "cat": "Other, surrogate",
+    "type": "Surrogate",
+    "char": "Not (only used in )UTF-16",
+    "count": "2,048 (will never change)[e]",
+    "comment": "No name, <surrogate>[g]"
+  },
+  {
+    "code": "Co",
+    "cat": "Other, private use",
+    "type": "Private-use",
+    "char": "Character (but no interpretation specified)",
+    "count": "137,468 total (will never change) ( , 131,068 )[e]6,400 inBMPinPlanes 15–16",
+    "comment": "No name, <private-use>[g]"
+  },
+  {
+    "code": "Cn",
+    "cat": "Other, not assigned",
+    "type": "Noncharacter",
+    "char": "Not",
+    "count": "66 (will never change)[e]",
+    "comment": "No name, <noncharacter>[g]"
+  }
+]
